@@ -1,3 +1,6 @@
+
+//region game
+
 /**
 
  -replace sprite to correspond with direction
@@ -198,3 +201,12 @@ function checkcolission(sprite){
 
 }
 //endregion
+//endregion
+
+
+
+function drawTable(){
+    
+}
+
+
