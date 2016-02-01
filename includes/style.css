@@ -9,6 +9,34 @@ body{
 }
 
 
+
+._tableTD{
+    background-color: #5f62ff;
+    /*border: 1px solid blue;*/
+    width: 40px;
+    height: 40px;
+}
+
+
+._tableWrapper{
+    /*width: 500px;*/
+    /*height: 500px;*/
+}
+
+._table{
+    background-color: #ffffff;
+    /*border: 1px solid blue;*/
+}
+
+/*._table td:hover{*/
+    /*background: url("img/crosshair.png");*/
+    /*background-size: 100% 100%;*/
+/*}*/
+
+
+
+
+/*region testgame*/
 ._logo{
     display: block;
     margin: auto;
@@ -96,7 +124,9 @@ body{
     width: 35px;
 
     /*set position*/
-    position: inherit;
+    position: inherit;}
     /*left: 950px;*/
     /*top: 200px;*/
-}
+
+
+/*endregion*/
